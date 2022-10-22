@@ -2,7 +2,11 @@
 
 source "https://rubygems.org"
 
+# Theme
 gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.0"
+
+# Markdown tool
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
 group :test do
   gem "html-proofer", "~> 3.18"
