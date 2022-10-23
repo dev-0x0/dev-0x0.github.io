@@ -10,7 +10,7 @@ tags: [python, linux, windows, productivity]
 
 _This is a repost of an old article I originally wrote at [null-byte.wonderhowto.com](https://null-byte.wonderhowto.com/how-to/introduction-ipython-0161135/_)_
 
-```ipython``` is a tool that I used heavily throughout my time in the PEN-200 labs, and also in the OSCP exam. It allows me to rapidly debug Python exploits and other scripts, as well as perform operations like service enumeration(with modules such as ```ldap3```), task involving sockets, complex data transformations and sorting procedures that would be a little more inconvenient in the Linux terminal. It is basically the default Python interpreter on steroids.
+```ipython``` is a tool that I used heavily throughout my time in the PEN-200 labs, and also in the OSCP exam. It allows me to rapidly debug Python exploits and other scripts, as well as perform operations like service enumeration(with modules such as ```ldap3```), tasks involving sockets, complex data transformations and sorting procedures that would be a little more inconvenient in the Linux terminal. It is basically the default Python interpreter on steroids.
 Now on to the original article.
 
 ## What Is ipython?
