@@ -21,12 +21,12 @@ timezone: Europe/Dublin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: dev0x0's blog                          # the main title
+title: Cyber Files                          # the main title
 
-tagline: Notes on pentesting, OSCP and other cyber musings   # it will display as the sub-title
+tagline: Cybersecurity and Technology   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog focused on my own notes and research as well as short tutorials
+  Penetration testing, the OSCP, cybersecurity, tutorials, personal notes, tutorials, hacking, web hacking, exploitation, privilege escalation, post-exploitation
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dev-0x0.github.io'
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: dev-0x0
+  name: dev0x0
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
