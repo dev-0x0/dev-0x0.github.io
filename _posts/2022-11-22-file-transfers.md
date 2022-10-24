@@ -49,6 +49,7 @@ to share reside.
 
 ![http2](/assets/img/http2.png) 
 <br>
+The `-m` option in the above commands runs a Python module as a script. 
 As we can see from the screenshots above, the default port for the server is 8000. 
 We can change that to a port of our choosing by adding it to the end of the command.
 
