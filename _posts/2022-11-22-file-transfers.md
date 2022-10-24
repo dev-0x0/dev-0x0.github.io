@@ -12,15 +12,15 @@ This is part of a series of tutorials on file transfer methods for pentesting an
 
 ## Scenario
 
-We have two Linux systems connected to the same local network
+- We have two Linux systems connected to the same local network
 
-KALI             - 192.168.56.103
-EXPLOIT-LAB      - 192.168.56.102
+KALI - 192.168.56.103<br>
+UBUNTU - 192.168.56.102
 
-We have a file `exploit.py` that we want to transfer from KALI to EXPLOIT-LAB.
+- We have a file `exploit.py` that we want to transfer from KALI to UBUNTU.
 
-The file starts off on our Kali machine in `/tmp/transfers`.
-As we can see, the `/tmp/transfers` directory on Exploit-lab is currently empty.
+- The file starts off on our KALI machine in `/tmp/transfers`.
+As we can see, the `/tmp/transfers` directory on UBUNTU is currently empty.
 
 ![ft1.png](/assets/img/ft1.png)
 <br>
@@ -66,7 +66,7 @@ From our UBUNTU system, we have a number of ways to transfer the file.
 
 ### 1. Web Browser
 
-We browse to the file in a web-browser, making sure to include the right port in the URL, click on the file we want, and it will download to our system.
+We browse to the file in a web browser, making sure to include the right port in the URL, click on the file we want, and it will download to our system.
 
 ![browse-file](/assets/img/browsefile.png)
 
