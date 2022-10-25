@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'File Transfers: Part 1'
+title: 'File Transfers - Part 1: Linux To Linux'
 date: '2022-10-22 17:57:48 +0100'
 categories: [Tutorial, OSCP]
 tags: [linux, oscp, python, file-transfer, pentesting, code, tutorial, ctf]
@@ -9,6 +9,13 @@ tags: [linux, oscp, python, file-transfer, pentesting, code, tutorial, ctf]
 This is part of a series of tutorials on file transfer methods for pentesting and CTF scenarios.
 
 # Linux to Linux File Transfer
+
+In this tutorial we will cover three methods of transferring files from one Linux system to another.
+We will serve a file on one Linux system using the **Python HTTP Server**, and download them on the second system with:
+
+- A web browser
+- `wget`
+- `curl`
 
 ## Scenario
 
