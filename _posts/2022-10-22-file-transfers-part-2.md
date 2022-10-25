@@ -55,7 +55,7 @@ Sometimes there are two requests, that's okay.
 ## Conclusion
 
 `Certutil.exe` is a very useful tool for file-transfers to Windows systems. Hopefully if you're reading this,
-you found something of use here. Please check out the other [File-Transfer tutorials](https://dev-0x0/tags/file-transfer) for more. Thanks for reading!
+you found something of use here. Please check out the other [File-Transfer tutorials](https://dev-0x0/tags/file-transfer/) for more. Thanks for reading!
 
 
 
