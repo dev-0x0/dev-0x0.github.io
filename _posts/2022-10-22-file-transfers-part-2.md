@@ -39,7 +39,7 @@ On our Linux system, we serve the file using the **Python HTTP Server.**
 
 ![serve-file](/assets/img/file-transfers-2/serve-file.png)
 
-We now have a number of ways we can transfer the file to the Windows system. It's important to know the different methods you can use, as sometimes during a pentest, the OSCP, or a CTF, the system has been configured to make it harder for you to transfer files, leaving certain options unavailable to you. In this tutorial, we will use the Windows `certutil` tool.
+There are multiple ways we can transfer the file to the Windows system. It's important to know the different methods you can use, as sometimes a system has been configured such that some options are unavailable to you. Therefore, it's good to have as many tools in your toolkit as possible. In this tutorial, we will use the Windows `certutil` tool.
 
 ### Certutil.exe
 
