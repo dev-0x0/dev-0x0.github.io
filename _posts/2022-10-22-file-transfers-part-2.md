@@ -10,6 +10,8 @@ This is part of a series of tutorials on file transfer methods for pentesting an
 
 # Linux to Windows File Transfer
 
+In this tutorial, we will cover the use of `certutil.exe` for transferring a file from Linux to a Windows system.
+
 ## Scenario
 
 We have a Windows and a Linux system connected to the same local network.
