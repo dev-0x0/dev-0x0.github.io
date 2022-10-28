@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Introduction to IPython
+title: An Introduction to iPython
 date: '2022-10-22 18:31:19 +0100'
 categories: [Python, Linux]
 tags: [python, linux, windows, productivity]
