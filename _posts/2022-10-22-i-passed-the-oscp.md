@@ -10,7 +10,6 @@ I recently passed the OSCP exam by [Offensive Security](https://www.offensive-se
 
 Throughout my OSCP journey, I came across a lot of great resources that really helped me to build and refine my skill-set. In this post, I talk a little bit about my preparation for the exam, and have compiled some of the best resources I came across. The fact is that the PEN-200 course really does give you everything you need to pass the exam. However, these extra resources will flesh out your understanding, and provide alternate ways to approach things which can really give you an edge. I certainly haven't covered everything here, but it's my hope that this can serve as a useful reference for anyone who wants to tackle this certification.
 
-
 ### Labs worth practicing on
 
 I primarily stuck to the machines on the [publicly available list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0) put together by [TJ_Null](https://twitter.com/tj_null).

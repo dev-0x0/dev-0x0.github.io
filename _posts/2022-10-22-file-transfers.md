@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'File Transfers - Part 1: Linux To Linux'
-date: '2022-10-22 17:57:48 +0100'
+date: '2022-10-23 17:57:48 +0100'
 categories: [Tutorial, OSCP]
 tags: [linux, oscp, python, file-transfer, pentesting, code, tutorial, ctf]
 ---

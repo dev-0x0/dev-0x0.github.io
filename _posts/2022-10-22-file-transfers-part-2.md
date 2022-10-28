@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'File Transfers - Part 2: Linux To Windows'
-date: '2022-10-22 17:57:48 +0100'
+date: '2022-10-24 17:57:48 +0100'
 categories: [Tutorial, OSCP]
 tags: [linux, windows, oscp, python, file-transfer, pentesting, code, tutorial, ctf]
 ---
