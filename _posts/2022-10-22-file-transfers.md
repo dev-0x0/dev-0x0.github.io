@@ -8,6 +8,9 @@ tags: [linux, oscp, python, file-transfer, pentesting, code, tutorial, ctf]
 
 This is part of a series of tutorials on file transfer methods for pentesting and CTF scenarios.
 
+_Disclaimer: It is necessary to disable any Anti-Virus (Windows Defender etc.) and also potentially any Firewalls
+on the Windows system for these transfers to work. It is highly recommended to do this in a safe, virtualised environment that is not connected to any public network or the Internet. You're responsible for the security of your own systems. These tutorials are for educational purposes only._
+
 # Linux to Linux File Transfer
 
 In this tutorial we will cover three methods of transferring files from one Linux system to another.
