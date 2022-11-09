@@ -6,6 +6,9 @@ order: 4
 
 
 Brian McDermott (dev0x0)
-OSCP | Net+ | BSc. (hons) Computer Science
+OSCP | Net+ | BSc. (Hons) Computer Science
 
-I started this blog to record my thoughts on cybersecurity-related topics.
+Lover of penetration testing and cybersecurity.
+
+In my spare time, I enjoy running on trails and mountains, training for ultra distance races,
+and making music.
