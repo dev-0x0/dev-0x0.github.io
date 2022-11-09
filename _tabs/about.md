@@ -10,7 +10,6 @@ OSCP | Net+ | BSc. (Hons) Computer Science
 
 Lover of penetration testing and Infosec.
 
-In my spare time, I enjoy running on trails and mountains, training for ultra distance races,
-and making music.
+I also enjoy running on trails and mountains, and making music.
 
 ![imra-run](/assets/img/imra-run.jpg)
