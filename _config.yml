@@ -21,7 +21,7 @@ timezone: Europe/Dublin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyber Files                          # the main title
+title: CyberFiles                          # the main title
 
 tagline: Cybersecurity and Pentesting    # it will display as the sub-title
 
