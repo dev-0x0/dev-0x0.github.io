@@ -23,7 +23,7 @@ timezone: Europe/Dublin
 
 title: Cyber Files                          # the main title
 
-tagline: Cybersecurity and Technology   # it will display as the sub-title
+tagline: Cybersecurity and Pentesting    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Penetration testing, the OSCP, cybersecurity, tutorials, personal notes, tutorials, hacking, web hacking, exploitation, privilege escalation, post-exploitation
